@@ -1,0 +1,27 @@
+{
+  "name": "@devleandrodias/branas.io-typescript-masterclass",
+  "version": "1.0.0",
+  "description": "Typescript Masterclass",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon ./src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devleandrodias/branas.io-typescript-masterclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devleandrodias/branas.io-typescript-masterclass/issues"
+  },
+  "homepage": "https://github.com/devleandrodias/branas.io-typescript-masterclass#readme",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  }
+}

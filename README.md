@@ -1,1 +1,1 @@
-# branas.io-typescript-masterclass
+# Branas.io - Typescript Masterclass
