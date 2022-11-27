@@ -7,3 +7,9 @@
 - Any, Unknown, Never, Void
 - Supress Comment
 - Generics
+- Enums
+- Modules
+- Namespaces
+- Decorators
+- Utility Types
+- Interop
